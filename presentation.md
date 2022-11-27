@@ -57,6 +57,14 @@
 - (Demo) How to commit a file to the Kyma Kata repository.
 - (Demo) How to remove a file from the Kyma Kata repository
 
+# Other things you may want to do.
+- Look at git's log of changes.
+- Tag revisions you want to return to easily.
+
+# Demo (2)
+- Looking at the log in Visual Studio Code
+- Tagging a commit in Visual Studio Code
+
 # Kyma Kata warnings
 - Git is best with text files.
 - Diffs are text-based, and rely on the context behind the text.
