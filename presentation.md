@@ -47,21 +47,22 @@
 1. Create or clone a repository
 2. _Sync_ your repository with Github.
 3. Make changes.
-4. _Add_ files to be committed.
-5. Commit the files.
+4. _Stage_ files to be committed.
+5. _Commit_ the changes.
 6. _Push_ your files to the repository.
 7. Return to step 2.
 
 # Demo
 - (Demo) How to clone the Kyma Kata repository using Visual Studio Code.
 - (Demo) How to commit a file to the Kyma Kata repository.
-- (Demo) How to remove a file from the Kyma Kata repository
+- (Demo) How to remove a file from the Kyma Kata repository.
 
 # Other things you may want to do.
 - Look at git's log of changes.
 - Tag revisions you want to return to easily.
 
 # Demo (2)
+- Staging and unstaging using Visual Studio Code
 - Looking at the log in Visual Studio Code
 - Tagging a commit in Visual Studio Code
 
@@ -73,3 +74,8 @@
   - Don't expect diffs to work: one person should be changing a `.kym` file at a time.
 - Github limits file sizes for large files 
   - Github.com isn't a good place to share WAV, `.tau`, and other large binary files.
+
+# Handy links
+- [Github](http://github.com)
+- [Using Visual Studio Code for change control](https://code.visualstudio.com/docs/sourcecontrol/overview)
+- [(Almost) everything about git](https://git-scm.com/doc)
